@@ -1,0 +1,6 @@
+### Problem 1: Create a family tree like Ancestry.
+Requirements:
+1. Node should contain a string for name and an int for age.  -- done
+2. Must be a BST (via age) -- done
+3. Implement a search capability -- done
+4. Add and remove some members -- done
